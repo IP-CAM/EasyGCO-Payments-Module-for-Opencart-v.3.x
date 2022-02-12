@@ -1,0 +1,17 @@
+{
+    "name": "easygco/easygco-payments-opencart-module",
+    "description": "EasyGCO Payments Module for OpenCart",
+    "homepage": "https://github.com/EasyGCO/EasyGCO-Payments-OpenCart-Module",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "EasyGCO",
+            "email": "github@easygco.com",
+            "homepage": "https://easygco.com/"
+        }
+    ],
+    "support": {
+        "email": "github@easygco.com",
+        "documentation": "https://docs.easygco.com/"
+    }
+}
